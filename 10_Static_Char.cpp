@@ -5,6 +5,7 @@ class Demo
 {
     public:
         int A, B;           // Non static characteristics
+
         static int X, Y;    // Static characteristics
 
         Demo()              // Default costructor
