@@ -41,7 +41,6 @@ int main()
 
     obj.fun();  // fun(&obj);
     obj.gun();  // Avoid kara
-
     
     return 0;
 }
