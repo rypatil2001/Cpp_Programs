@@ -7,7 +7,7 @@ class Demo
         int A, B;           // Non static characteristics
         static int X, Y;    // Static characteristics
 
-        Demo()              // Default costructor
+        Demo()              // Default costructor 
         {
             // Initialisation of non static characteristics
             A = 0;
