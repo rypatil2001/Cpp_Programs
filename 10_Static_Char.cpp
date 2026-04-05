@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-class Demo
+class Demo 
 {
     public:
         int A, B;           // Non static characteristics
