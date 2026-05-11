@@ -8,7 +8,7 @@ class Base
         int A,B;
         virtual void Fun()  // 1000
         {
-            cout<<"Inside Fun of Base"<<"\n";
+            cout<<"Inside Fun of Base"<<"\n"; 
         }
         virtual void Gun()  // 2000
         {
